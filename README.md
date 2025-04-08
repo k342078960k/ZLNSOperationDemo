@@ -22,7 +22,7 @@ pod 'ZLNSOperationDemo'
 
 ## Author
 
-李哲楷, lizhekai@miliantech.com
+李哲楷, k342078960k@gmail.com
 
 ## License
 
