@@ -1,0 +1,16 @@
+PODS:
+  - ZLNSOperationDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZLNSOperationDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZLNSOperationDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZLNSOperationDemo: 2dff899c424662476b1500fdcd8ecf85773344c2
+
+PODFILE CHECKSUM: d2cf4ea4e06645c07cc91f68d2cf46296e79251b
+
+COCOAPODS: 1.16.2

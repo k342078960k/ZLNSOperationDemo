@@ -1,0 +1,6 @@
+framework module ZLNSOperationDemo {
+  umbrella header "ZLNSOperationDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
